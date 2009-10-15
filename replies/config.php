@@ -4,11 +4,11 @@
 	$_email = array(
 		'server' => '{imap.googlemail.com:993/imap/ssl/novalidate-cert}INBOX',
 		'username' => 'twitapps@googlemail.com',
-		'password' => 'pootle9032',
+		'password' => 'password_one',
 	);
 	
 	$_twitter = array(
 		'username' => 'ta_replies',
-		'password' => 'arsehole',
+		'password' => 'password_two',
 		'source' => 'twitapps',
 	);
